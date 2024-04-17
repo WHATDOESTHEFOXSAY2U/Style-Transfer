@@ -14,6 +14,11 @@ This repository hosts a Jupyter notebook that demonstrates the fascinating appli
 ## 🔍 About the Notebook
 The notebook explores the technique of style transfer, combining the content of one image with the style of another. It demonstrates how deep learning models can be used to create artistic transformations.
 
+![style](https://github.com/WHATDOESTHEFOXSAY2U/Style-Transfer/assets/25818677/79c14cdc-cfdf-4feb-b728-253940773a33)
+![Temp](https://github.com/WHATDOESTHEFOXSAY2U/Style-Transfer/assets/25818677/82aa0f7c-b251-41fe-9cc8-2567fa7555ee)
+![Final](https://github.com/WHATDOESTHEFOXSAY2U/Style-Transfer/assets/25818677/83ba2f85-524a-4101-9bab-dce57880fa36)
+
+
 ## ⚙️ Setup and Installation
 Clone the repository and install the necessary packages as listed in a requirements.txt file to run the notebook effectively.
 
